@@ -89,6 +89,7 @@ if(isset($_POST['submitBtn'])){
             <div class="col col-md-3 col-lg-3 col-sm-3"></div>
         </div>
     </div>
+    <div></div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
