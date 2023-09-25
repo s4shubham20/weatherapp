@@ -1,6 +1,6 @@
 <?php
+include('token.php');
 if(isset($_POST['submitBtn'])){
-    $key=  "db82586bad5a4090b59105847230607";
     $city = $_POST['search'];
     $aqi = 'Yes';
     // $url = "https://api.weatherapi.com/v1/current.json?key=$key&q=$city&aqi=$aqi";
